@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "task 12-12-2025": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
